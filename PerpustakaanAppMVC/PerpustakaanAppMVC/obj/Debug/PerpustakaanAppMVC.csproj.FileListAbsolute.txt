@@ -1,0 +1,28 @@
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+C:\Users\Asus\Downloads\Operasi CRUD MVC Part #1\project\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\22.11.5072_punya_burhaaaaaaan\Pertemuan 12\PerpustakaanAppMVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
